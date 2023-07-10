@@ -1,5 +1,9 @@
 # Customer Churn Prediction Python Notebook
 
+The aim of this repository is to highlight the concept of the data-centric approach in Machine Learning. By comparing the performance of machine learning algorithms on two datasets for the same churn prediction task, this repository emphasizes the significance of data quality rather than solely focusing on the quantity of data collected.
+
+Upon reviewing the notebooks within this repository, you will gain insights into the crucial role of data quality and understand that it goes beyond the sheer volume of data collected.
+
 ## Introduction
 
 Customer churn refers to the phenomenon where customers stop using the products or services provided by a company and switch to a competitor or completely discontinue using similar offerings. It is a critical metric for businesses across various industries as it directly impacts revenue and growth. Customer churn prediction is the task of identifying customers who are likely to churn in the future based on historical data and relevant features.
